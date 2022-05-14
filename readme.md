@@ -6,4 +6,4 @@
 *   
 * 
 
-## [Открыть](https://frub.io/lesson_8/)nat.gith
+## [Открыть](https://frnat.github.io/lesson_8/)
