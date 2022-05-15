@@ -1,4 +1,39 @@
-.game-card {
-    height: 100vh;
-    font-family: 'Open Sans', monospace;
-}
+       body {
+           background-color: rgb(255, 255, 255);
+           height: 100vh;
+       }
+       
+       .card {
+           height: 70vh;
+           width: 85vh;
+           margin: 0 auto;
+           background-color: rgb(247, 210, 245);
+       }
+       
+       .game-card {
+           height: 100vh;
+           font-family: 'Open Sans', monospace;
+       }
+       
+       .card-body {
+           height: 100vh;
+           position: relative;
+           display: flex;
+           justify-content: center;
+           align-items: center;
+       }
+       
+       .btn-group {
+           height: 10vh;
+       }
+       
+       .btn-link {
+           height: 10vh;
+           width: 25vh;
+           background-color: rgb(184, 157, 240);
+           border: rgb(63, 5, 144) solid;
+           border-radius: 5%;
+           margin-top: 50px;
+           font-size: 3vh;
+           color: rgb(63, 5, 144)
+       }
